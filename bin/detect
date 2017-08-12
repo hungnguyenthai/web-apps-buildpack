@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "QUOINE web-apps"
+exit 0
